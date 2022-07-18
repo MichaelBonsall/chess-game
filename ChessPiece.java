@@ -44,6 +44,6 @@ public class ChessPiece {
         yCoord = y;
     }
 
-    public void promotion() { //Here bc I think its needed for promotion to work. Needs testing.
+    public void promotion() { 
     }
 }
